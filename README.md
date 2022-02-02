@@ -1,16 +1,5 @@
 # Road-Damage-Detection-Model
 
-Table of contents:
- Problem Explanation
- Understanding the data
- Existing approaches
- Exploratory Data Analysis
- YoloV3
- YoloV5
- Deployment using Flask
- Application Demo
- Future Work
- References
 
 Problem Explanation
 
